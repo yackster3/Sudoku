@@ -3,17 +3,17 @@ Just some fun sudoku stuff
 to use, first you must make an np.array with dimensions 9x9 with numbers 1-9 in each cell organized like a regular sudoku puzzle.
 
 In other words to print a puzzle like this:
-1 2 3 | 4 5 6 | 7 8 9
-4 5 6 | 7 8 9 | 1 2 3
-7 8 9 | 1 2 3 | 4 5 6
-----------------------
-2 3 1 | 5 6 4 | 8 9 7 
-5 6 4 | 8 9 7 | 2 3 1
-8 9 7 | 2 3 1 | 5 6 4
-----------------------
-3 1 2 | 6 4 5 | 9 7 8
-6 4 5 | 9 7 8 | 3 1 2
-9 7 8 | 3 1 2 | 6 4 5
+>>>1 2 3 | 4 5 6 | 7 8 9
+>>>4 5 6 | 7 8 9 | 1 2 3
+>>>7 8 9 | 1 2 3 | 4 5 6
+>>>----------------------
+>>>2 3 1 | 5 6 4 | 8 9 7 
+>>>5 6 4 | 8 9 7 | 2 3 1
+>>>8 9 7 | 2 3 1 | 5 6 4
+>>>----------------------
+>>>3 1 2 | 6 4 5 | 9 7 8
+>>>6 4 5 | 9 7 8 | 3 1 2
+>>>9 7 8 | 3 1 2 | 6 4 5
 
 you write:
 
