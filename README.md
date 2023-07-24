@@ -45,8 +45,8 @@ the code contains a few main functions
 
 1) def printSolution(puzzle):
 
-  A function which will print the solution to the puzzle input as an array formated as described above.
-  The output will be formated using the "printBoard" function
+  A function that will print the solution to the puzzle input as an array formatted as described above.
+  The output will be formatted using the "printBoard" function
   
 2) def checkAnswer(puzzle, yourAnswer, x,y, tell = False):
 
